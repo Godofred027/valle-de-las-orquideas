@@ -1,0 +1,142 @@
+{
+    "Header": {
+
+        "title": "FUNDO ECOLOGICO",
+        "paragraph": "Ofrece a tu familia un destino unico en Oxapampa. En uno de los lugares mas impresionantes, rodeado de montañas y vistas impresionantes."
+
+    },
+    "About": {
+        "paragraph": "Fundo Ecologico VALLE DE LAS ORQUIDEAS en OXAPAMPA es un proyecto de 95 hectáreas donde podras construir tu hogar ideal, rodeado de vegetacion, montañas, cuevas y cataratas todo esto en la Selva Central del Perú. El proyecto se encuentra ubicado en la provincia de Oxapampa, región Pasco, a 30 minutos de la ciudad de Oxapampa y a 15 minutos de la ciudad de Chontabamba.",
+        "Why": [
+            "Lugar Altamente Turistico",
+            "Cueva Sia Sia (UNESCO)",
+            "Cerca a la ciudad",
+            "Precios Comodos"
+        ],
+        "Why2": [
+            "Proyeccion a largo Plazo",
+            "Proteccion Ambiental",
+            "Conservacion de la Naturaleza",
+            "Servicios Basicos"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-sun-o",
+            "img": "/img/icons/sol.png",
+            "name": "Clima Cálido",
+            "text": "Encontrarás un excelente clima para poder desarrollar la agricultura y ganadería, lo que te permitirá desarrollar una hacienda productora de alto rendimiento."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "img": "/img/icons/tierra.png",
+            "name": "Tierra Fértil",
+            "text": "El terreno ha sido cuidadosamente estudiado por nuestro equipo de arquitectos e ingenieros agrónomos, asegurando una alta fertilidad necesaria para el desarrollo de las haciendas."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "img": "/img/icons/agua.png",
+            "name": "Reservorio de Agua",
+            "text": "Cada una de las haciendas contará con un reservorio de agua y canales de irrigación, previamente construidos para potenciar y asegurar el agua todo el año en nuestras haciendas."
+        },
+        {
+            "icon": "fa fa-language",
+            "img": "/img/icons/planeta.png",
+            "name": "Ubicación Estratégica",
+            "text": "Nuestro terreno tiene alta deseabilidad, ya que se encuentra ubicando en Oxapampa y además  es apto para la agricultura, ganadería, piscicultura, reforestación y turismo ecológico."
+        },
+        {
+            "icon": "fa fa-plane",
+            "img": "/img/icons/seguridad.png",
+            "name": "Seguridad",
+            "text": "Tú inversión es totalmente segura, ya que contamos con garantía hipotecaria y contratos notariales que protegen tu dinero."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "img": "/img/icons/titulo.png",
+            "name": "Título de Propiedad",
+            "text": "La empresa AIBR KARAZ respalda este proyecto y cuenta con título de propiedad a nombre de nuestra empresa."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Psj. Jose Maria Arguedas 101, El Tambo, Huancayo",
+        "phone": "+51 931 386 463",
+        "email": "info@aibrkaraz.com",
+        "facebook": "https://www.facebook.com/aibrkaraz",
+        "twitter": "https://www.instagram.com/aibrkaraz/",
+        "youtube": "https://www.youtube.com/@aibrkaraz3271"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
